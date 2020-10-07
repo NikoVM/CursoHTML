@@ -3,9 +3,13 @@
 ## Visión general
 
 El HTML contiene dos tipos de listas utilizadas principalmente:
-| | Listas ordenadas | Listas no ordenadas |
-|---|---|---|
-|Ejemplo | <ul><li>Artículo 1</li><li>Artículo 2</li></ul> | <ol><li>Artículo 1</li><li>Artículo 2</li></ol> |
+Listas ordenadas 
+
+<ol><li>Artículo 1</li><li>Artículo 2</li></ol>
+
+Listas no ordenadas
+
+<ul><li>Artículo 1</li><li>Artículo 2</li></ul>
 
 ### Listas ordenadas
 
