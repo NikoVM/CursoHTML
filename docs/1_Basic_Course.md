@@ -28,8 +28,7 @@ Ejemplo:
 <Aron>Es el mejor estudiante</Aron>
 ```
 
-> | :warning:     Importante |
-> |-----------------------|
+> :warning:     Importante
 > Un elemento vacío puede mostrarse como:  
 > ```xml 
 > <Aron />
@@ -111,8 +110,7 @@ Ejemplo:
     </body>
 </html>
 ```
-> | :warning:     Importante |
-> |-----------------------|
+> :warning:     Importante
 > El elemento HTML contiene siempre 2 hijos: un elemento "head" para definir sus propiedades de encabezado y un elemento "body" que contiene el contenido de la página.
 ---
 
@@ -184,8 +182,7 @@ Resultado:
 Los elementos de `<h1>` a `<h6>` se usan para definir los encabezados HTML.
 \
 `<h1>` define el encabezado más importante. `<h6>` define el encabezado menos importante.
-> | :point_up:     Consejo |
-> |-----------------------|
+> :point_up:     Consejo
 > Sólo usa un `<h1>` por página - esto debería representar el encabezado/tema principal de toda la página.
 > \
 > Además, no se salte los niveles de encabezamiento - comience con `<h1>`, luego use `<h2>`, y así sucesivamente.

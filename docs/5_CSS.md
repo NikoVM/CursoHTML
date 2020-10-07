@@ -8,9 +8,7 @@ Las Hojas de Estilo en Cascada (CSS) se utilizan para dar formato al diseño de 
 
 Con CSS, puedes controlar el color, la fuente, el tamaño del texto, el espacio entre elementos, cómo se posicionan y disponen los elementos, qué imágenes de fondo o colores de fondo se deben utilizar, diferentes pantallas para diferentes dispositivos y tamaños de pantalla, ¡y mucho más!
 
-> | :warning: Importante |
-> | -------------------- |
->
+> :warning: Importante
 >
 > La palabra "en cascada" significa que un estilo aplicado a un elemento padre también se aplicará a todos los elementos hijos dentro del padre. Por lo tanto, si establece el color del cuerpo de texto en "azul", todos los encabezados, párrafos y otros elementos de texto dentro del cuerpo también obtendrán el mismo color (a menos que especifique algo más)!
 
@@ -118,9 +116,7 @@ Resultado:
     <p style="color: red;">Este es un párrafo.</p>
 </div>
 
-> | :point_up: Consejo |
-> | ------------------ |
->
+> :point_up: Consejo
 >
 > Con una hoja de estilo externa, puedes cambiar el aspecto de un sitio web entero, ¡cambiando un fichero!
 
@@ -160,9 +156,7 @@ La propiedad `border` de CSS define un borde alrededor de un elemento HTML y con
 2. El estilo del borde
 3. Cualquier color
 
-> | :point_up: Consejo |
-> | ------------------ |
->
+> :point_up: Consejo
 >
 > Puedes definir un borde para casi todos los elementos HTML.
 
