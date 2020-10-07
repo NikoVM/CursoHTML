@@ -30,7 +30,7 @@ Ejemplo:
 
 > :warning:     Importante
 >
->
+> \
 > Un elemento vacío puede mostrarse como:  
 > ```xml 
 > <Aron />
@@ -114,7 +114,7 @@ Ejemplo:
 ```
 > :warning:     Importante
 >
->
+> \
 > El elemento HTML contiene siempre 2 hijos: un elemento "head" para definir sus propiedades de encabezado y un elemento "body" que contiene el contenido de la página.
 ---
 

@@ -10,7 +10,7 @@ Con CSS, puedes controlar el color, la fuente, el tamaño del texto, el espacio 
 
 > :warning: Importante
 >
->
+> \
 > La palabra "en cascada" significa que un estilo aplicado a un elemento padre también se aplicará a todos los elementos hijos dentro del padre. Por lo tanto, si establece el color del cuerpo de texto en "azul", todos los encabezados, párrafos y otros elementos de texto dentro del cuerpo también obtendrán el mismo color (a menos que especifique algo más)!
 
 ### Usando CSS
@@ -119,7 +119,7 @@ Resultado:
 
 > :point_up: Consejo
 >
->
+> \
 > Con una hoja de estilo externa, puedes cambiar el aspecto de un sitio web entero, ¡cambiando un fichero!
 
 ## Propiedades CSS comúnmente utilizadas
@@ -160,7 +160,7 @@ La propiedad `border` de CSS define un borde alrededor de un elemento HTML y con
 
 > :point_up: Consejo
 >
->
+> \
 > Puedes definir un borde para casi todos los elementos HTML.
 
 Ejemplo:
