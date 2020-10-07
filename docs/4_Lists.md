@@ -44,4 +44,4 @@ Resultado:
 > <ul><li>Artículo 1</li><li>Artículo 2</li></ul>
 
 \
-[Volver a la vista general](Index.html)
+[Volver a la vista general](index.md)

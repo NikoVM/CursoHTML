@@ -62,4 +62,4 @@ El atributo ``alt`` requerido para un elemento ``<img>`` especifica un texto alt
 ```
 
 \
-[Volver a la vista general](Index.html)
+[Volver a la vista general](index.md)

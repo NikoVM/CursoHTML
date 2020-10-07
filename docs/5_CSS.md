@@ -271,4 +271,4 @@ Resultado:
 <p style="color:blue">Soy informativo y se me muestra en azul</p>
 
 \
-[Volver a la vista general](Index.html)
+[Volver a la vista general](index.md)

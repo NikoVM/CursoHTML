@@ -215,4 +215,4 @@ Resultado:
 > <p>Una línea de separación y una línea horizontal y un nuevo párrafo.</p>
 
 \
-[Volver a la vista general](Index.md)
+[Volver a la vista general](index.md)

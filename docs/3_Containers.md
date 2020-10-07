@@ -87,4 +87,4 @@ Resultado:
 * El elemento `<span>` es un contenedor en línea usado para marcar una parte de un texto, o una parte de un documento
 
 \
-[Volver a la vista general](Index.html)
+[Volver a la vista general](index.md)
