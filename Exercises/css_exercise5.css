@@ -1,0 +1,24 @@
+h1 {
+	background-color: green;
+	font-style: bold;
+	color: white;
+	text-align: center;
+}
+
+h2 {
+    border: 10px dotted red;
+    padding: 50px 90px;
+}
+
+div {
+	text-align: left;
+}
+
+.Image {
+	text-align: center;
+}
+
+img{
+    width: 500px;
+	height: 800px;
+}

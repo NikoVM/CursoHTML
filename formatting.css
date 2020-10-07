@@ -1,0 +1,14 @@
+h1 {
+	background-color: deeppink;
+	font-style: bold;
+	color: white;
+	text-align: center;
+}
+
+div {
+	text-align: left;
+}
+
+.Image {
+	text-align: center;
+}
