@@ -1,2 +1,4 @@
 theme: jekyll-theme-cayman
-uses: fennecdjay/emojify-docker-action@v1
+plugins:
+  - jemoji
+markdown: GFM
